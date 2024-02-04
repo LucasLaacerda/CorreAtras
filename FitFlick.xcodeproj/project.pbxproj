@@ -33,6 +33,7 @@
 		8CCA0B812B6FB7B200531776 /* ExerciseTimerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CCA0B802B6FB7B200531776 /* ExerciseTimerViewModel.swift */; };
 		8CCA0B892B6FC94400531776 /* FitFlick.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8CCA0B862B6FC94400531776 /* FitFlick.xcdatamodeld */; };
 		8CCA0B8B2B6FCE2F00531776 /* HistoryFilterOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CCA0B8A2B6FCE2F00531776 /* HistoryFilterOptions.swift */; };
+		8CCA0B8D2B6FDC9A00531776 /* RegisterViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CCA0B8C2B6FDC9A00531776 /* RegisterViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,6 +65,7 @@
 		8CCA0B872B6FC94400531776 /* Corre_Atras.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Corre_Atras.xcdatamodel; sourceTree = "<group>"; };
 		8CCA0B882B6FC94400531776 /* FitFlick.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.entitlements; path = FitFlick.entitlements; sourceTree = "<group>"; };
 		8CCA0B8A2B6FCE2F00531776 /* HistoryFilterOptions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryFilterOptions.swift; sourceTree = "<group>"; };
+		8CCA0B8C2B6FDC9A00531776 /* RegisterViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,6 +158,7 @@
 			children = (
 				8C06C29B2B6EAF5200430ADF /* RegisterView.swift */,
 				8C06C2932B6E9E1300430ADF /* LoginView.swift */,
+				8CCA0B8C2B6FDC9A00531776 /* RegisterViewModel.swift */,
 			);
 			path = Login;
 			sourceTree = "<group>";
@@ -302,6 +305,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8C06C2B12B6F259300430ADF /* Image+Extension.swift in Sources */,
+				8CCA0B8D2B6FDC9A00531776 /* RegisterViewModel.swift in Sources */,
 				8CCA0B8B2B6FCE2F00531776 /* HistoryFilterOptions.swift in Sources */,
 				8CCA0B892B6FC94400531776 /* FitFlick.xcdatamodeld in Sources */,
 				8C06C2B42B6F262300430ADF /* ExerciseHistoryRow.swift in Sources */,
