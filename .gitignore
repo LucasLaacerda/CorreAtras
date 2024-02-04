@@ -1,0 +1,10 @@
+# Ignorar arquivos compilados
+*.o
+*.out
+
+# Ignorar arquivos gerados automaticamente
+.DS_Store
+
+# Ignorar diretório de dependências gerado pelo CocoaPods
+Pods/
+
